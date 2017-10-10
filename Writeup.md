@@ -2,13 +2,12 @@
 
 ## Writeup 
 
----
 
 [//]: # (Image References)
 
-[image1]: ./examples/grayscale.jpg "Grayscale"
+[image1]: ./lzTest1.jpg
+[image1]: ./Challenge.jpg
 
----
 
 ### Reflection
 
